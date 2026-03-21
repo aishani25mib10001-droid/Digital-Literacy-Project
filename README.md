@@ -1,1 +1,10 @@
 # Digital-Literacy-Project
+-------------------------------------------------------------
+NAME: AISHANI PAUL
+REG NO: 25MIB10001
+-------------------------------------------------------------
+<h3>Task 1 – Digital Literacy Infographic</h3>
+In this task, I designed a Digital Literacy Awareness infographic using Canva. While creating it, I focused on explaining what digital literacy means in a simple and easy-to-understand way. I also included some useful digital tools that students can use in their daily academic life, along with important internet safety practices.
+
+The infographic was made to be visually clear and informative so that anyone can quickly understand the key ideas without reading too much text. Overall, this task helped me understand how to present information in a more engaging and effective way.
+[View Infographic](task-1-presentation/INFOGRAPHICS.pdf)
