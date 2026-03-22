@@ -17,5 +17,5 @@ in case the link shows "Unable to render code block" due to internet issue, plea
 In this task, I built my digital portfolio by creating profiles on GitHub, LinkedIn, and ResearchGate. These platforms help me create a professional online presence and share my skills and learning journey.
 
 * GitHub: https://github.com/aishani25mib10001-droid
-* LinkedIn: http://researchgate.net/profile/Aishani-Paul?ev=hdr_xprf
+* LinkedIn: www.linkedin.com/in/aishani-paul-1643a73b9
 * ResearchGate: https://researchgate.net/profile/Aishani-Paul?ev=hdr_xprf
