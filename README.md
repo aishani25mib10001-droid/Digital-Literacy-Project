@@ -11,3 +11,11 @@ The infographic was made to be visually clear and informative so that anyone can
 [View Infographic](task-1-presentation/INFOGRAPHICS.pdf)
 
 in case the link shows "Unable to render code block" due to internet issue, please download the raw file and check.Thank you
+
+-------------------------------------------------------------
+<h3>Task 2 - Building a Student Digital Portfolio</h3>
+In this task, I built my digital portfolio by creating profiles on GitHub, LinkedIn, and ResearchGate. These platforms help me create a professional online presence and share my skills and learning journey.
+
+* GitHub: https://github.com/aishani25mib10001-droid
+* LinkedIn: http://researchgate.net/profile/Aishani-Paul?ev=hdr_xprf
+* ResearchGate: https://researchgate.net/profile/Aishani-Paul?ev=hdr_xprf
