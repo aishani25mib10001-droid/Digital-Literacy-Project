@@ -9,3 +9,4 @@ In this task, I designed a Digital Literacy Awareness infographic using Canva. W
 The infographic was made to be visually clear and informative so that anyone can quickly understand the key ideas without reading too much text. Overall, this task helped me understand how to present information in a more engaging and effective way.
 
 [View Infographic](task-1-presentation/INFOGRAPHICS.pdf)
+in case the link shows "Unable to render code block" please download the raw file and check.Thank you
