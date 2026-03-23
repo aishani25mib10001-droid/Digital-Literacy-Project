@@ -30,3 +30,16 @@ For Part B, I created a <b>Google Form</b> titled “Digital Literacy Awareness 
 Google Form link:https://docs.google.com/forms/d/e/1FAIpQLSctvsYAkFXNyhx431lOfTNV2s4syrrHKjHnJY1iwaX-4jVggw/viewform?usp=header
 
 This task helped me understand how coding platforms can be used for regular practice and how collaboration tools like Google Forms can be used for creating quizzes and collecting data.
+
+--------------------------------------------------------------
+<h3>Task 4 – Professional Email & Etiquette Guide</h3>
+
+In this task, I practiced professional communication by writing two formal emails and creating a social media etiquette checklist.
+
+In Part A, I wrote two professional emails. The first email was addressed to a professor requesting an extension for an assignment submission, and the second email was written to an internship coordinator expressing interest in a summer internship opportunity.                                
+[click here to check the emails](task-4-email-etiquette/email.md)
+
+In Part B, I created a Social Media Do’s and Don’ts checklist with five points in each category. This checklist highlights responsible and safe behavior while using social media as a college student.                                                                                                                      
+[click here to check the checklist](task-4-email-etiquette/social-media-checklist.md)
+
+--------------------------------------------------------------
