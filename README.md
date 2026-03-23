@@ -19,3 +19,10 @@ In this task, I built my digital portfolio by creating profiles on GitHub, Linke
 * GitHub: https://github.com/aishani25mib10001-droid
 * LinkedIn: www.linkedin.com/in/aishani-paul-1643a73b9
 * ResearchGate: https://researchgate.net/profile/Aishani-Paul?ev=hdr_xprf
+
+-------------------------------------------------------------
+<h3>Task 3 – Coding & Collaboration Platforms</h3>
+In this task, I explored coding and collaboration platforms by using HackerRank and Google Forms. These platforms helped me understand how to improve my technical skills and work with digital tools effectively.
+
+- HackerRank: Completed a beginner-level Python problem  
+- Google Form: Created a Digital Literacy Awareness Quiz
