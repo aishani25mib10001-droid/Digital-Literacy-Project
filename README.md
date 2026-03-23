@@ -1,6 +1,6 @@
 # Digital-Literacy-Project
 -------------------------------------------------------------
-NAME: AISHANI PAUL 
+NAME: AISHANI PAUL    
 REG NO: 25MIB10001
 -------------------------------------------------------------
 <h3>Task 1 – Digital Literacy Infographic</h3>
@@ -22,7 +22,11 @@ In this task, I built my digital portfolio by creating profiles on GitHub, Linke
 
 -------------------------------------------------------------
 <h3>Task 3 – Coding & Collaboration Platforms</h3>
-In this task, I explored coding and collaboration platforms by using HackerRank and Google Forms. These platforms helped me understand how to improve my technical skills and work with digital tools effectively.
+<l>In this task, I explored coding practice and collaboration tools to understand how they can support learning and teamwork in a digital environment.</l>
 
-- HackerRank: Completed a beginner-level Python problem  
-- Google Form: Created a Digital Literacy Awareness Quiz
+For Part A, I created an account on <b>HackerRank</b> and completed a beginner-level Python problem. This helped me practice basic coding concepts and improve my problem-solving skills.
+
+For Part B, I created a <b>Google Form</b> titled “Digital Literacy Awareness Quiz” with five questions, including multiple-choice and short answer types. I also collected responses and viewed them using Google Sheets.   
+Google Form link:https://docs.google.com/forms/d/e/1FAIpQLSctvsYAkFXNyhx431lOfTNV2s4syrrHKjHnJY1iwaX-4jVggw/viewform?usp=header
+
+This task helped me understand how coding platforms can be used for regular practice and how collaboration tools like Google Forms can be used for creating quizzes and collecting data.
