@@ -1,6 +1,7 @@
 # Digital-Literacy-Project
 -------------------------------------------------------------
 NAME: AISHANI PAUL
+
 REG NO: 25MIB10001
 -------------------------------------------------------------
 <h3>Task 1 – Digital Literacy Infographic</h3>
