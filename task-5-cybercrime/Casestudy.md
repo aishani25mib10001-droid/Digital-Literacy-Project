@@ -1,3 +1,6 @@
+<h3>CYBERBULLYING</h3>
+
+
 Cyberbullying is a type of online harassment where people use social media or messaging platforms to hurt or humiliate someone. This can include posting mean comments, spreading rumors, sharing private information, or even creating fake accounts to damage a person’s image.
 
 It usually begins in small ways. A person shares something online, and a few people start leaving sarcastic or negative comments. Over time, this behavior grows into regular harassment. In some cases, bullies create fake profiles to impersonate the victim and spread false information, making the situation worse.
