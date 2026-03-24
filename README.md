@@ -43,3 +43,15 @@ In Part B, I created a Social Media Do’s and Don’ts checklist with five poin
 [click here to check the checklist](task-4-email-etiquette/social-media-checklist.md)
 
 --------------------------------------------------------------
+<h3>Task 5 – Cybercrime Awareness & Prevention</h3>
+
+In this task, I explored the concept of cybercrime by focusing on cyberbullying as a case study. I described what cyberbullying is, how it typically happens step-by-step, who is commonly targeted, and the possible consequences it can have on individuals.
+
+I also created a realistic scenario to show how cyberbullying can affect a person’s mental health, social life, and academic performance. This helped me understand the seriousness of online harassment and its real-life impact.                                                                                                     
+[click here to check the case study](task-5-cybercrime/Casestudy.md)
+
+In Part B, I prepared a “Stay Safe Online” checklist with practical and actionable tips for college students. The checklist includes general safety measures, financial/UPI safety tips, and information about reporting cybercrime through official channels.                                                                    
+[click here to check the checklist](task-5-cybercrime/prevention-checklist.md)
+
+This task improved my awareness of cyber risks and taught me how to stay safe and responsible while using digital platforms.
+
