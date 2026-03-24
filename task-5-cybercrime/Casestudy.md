@@ -1,16 +1,11 @@
-<h3>Cyberbullying</h3>
-Cyberbullying is a form of online harassment where individuals are targeted through social media, messaging platforms, or online forums. It involves actions such as sending abusive messages, spreading rumors, sharing private information, or posting harmful content to embarrass or intimidate someone.
+Cyberbullying is a type of online harassment where people use social media or messaging platforms to hurt or humiliate someone. This can include posting mean comments, spreading rumors, sharing private information, or even creating fake accounts to damage a person’s image.
 
-Cyberbullying commonly targets teenagers, students, and individuals who are active online or perceived as vulnerable. Victims may include those who express opinions, share personal content, or stand out in any way.
+It usually begins in small ways. A person shares something online, and a few people start leaving sarcastic or negative comments. Over time, this behavior grows into regular harassment. In some cases, bullies create fake profiles to impersonate the victim and spread false information, making the situation worse.
 
-One such case is described below:
+Teenagers and students are most commonly targeted, especially those who are active on social media or seen as different or vulnerable.
 
-A college student named Aadya regularly shared her achievements and daily life on social media. Initially, her posts received positive responses, but over time, a few individuals started leaving sarcastic and negative comments. Soon, a fake account was created using her name and photos, posting edited and misleading content about her.
+Aadya, a college student, loved sharing her achievements and daily moments online. At first, everything was positive, but gradually, a few people began posting hurtful comments. Soon, someone created a fake account using her photos and started posting edited and misleading content. Rumors spread quickly among her classmates. Aadya felt embarrassed, anxious, and isolated. She stopped participating in social activities and even struggled to focus on her studies.
 
-As the situation escalated, rumors began spreading among her classmates. Many people started believing the false information, and Riya began receiving messages questioning her character. This made her feel embarrassed and anxious, and she slowly withdrew from social media and social interactions.
+The situation improved when a close friend noticed her distress and encouraged her to speak to a faculty member. Together, they reported the fake account, which was later removed, and action was taken against those responsible.
 
-The issue also affected her academic life, as she found it difficult to concentrate on her studies. Despite trying to ignore the situation, the constant online harassment took a toll on her mental health.
-
-Eventually, with the help of a trusted friend and a faculty member, Riya reported the fake account and abusive messages. The platform took action by removing the account, and the college authorities warned the individuals involved.
-
-This situation highlights how cyberbullying can quickly escalate and impact a person’s well-being. It also shows the importance of reporting such incidents, seeking support, and promoting responsible digital behavior.
+This shows how cyberbullying can deeply affect a person’s mental health and confidence, and why support and timely action are crucial.
