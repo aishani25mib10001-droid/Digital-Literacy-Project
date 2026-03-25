@@ -4,6 +4,18 @@ NAME: AISHANI PAUL
 REG NO: 25MIB10001
 -------------------------------------------------------------
 
+## 📁 Repository Structure
+├── Task1_Infographic/
+├── Task2_Portfolio/
+├── Task3_Platforms/
+├── Task4_Email_Etiquette/
+├── Task5_Cybercrime/
+├── Report/
+│   └── report.docx
+└── README.md
+
+-------------------------------------------------------------
+
 ## 📌 Project Overview
 This Digital Literacy Project aims to develop essential online skills including digital communication, cybersecurity awareness, professional presence, and responsible internet usage. The project consists of five tasks that demonstrate practical applications of digital literacy concepts.
 
