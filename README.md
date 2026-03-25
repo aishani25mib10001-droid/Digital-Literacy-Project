@@ -5,19 +5,17 @@ REG NO: 25MIB10001
 -------------------------------------------------------------
 
 ## 📁 Repository Structure
-├── Task1_Infographic/                                                                                                                                                        
-├── Task2_Portfolio/
 
-├── Task3_Platforms/
+This repository is organized into separate folders for each task to keep everything clear and easy to navigate:
 
-├── Task4_Email_Etiquette/
-
-├── Task5_Cybercrime/
-
-├── Report/
-│   └── report.docx
-
-└── README.md
+├── Task1_Infographic/        → Contains the digital literacy infographic  
+├── Task2_Portfolio/          → Includes links and details of my digital portfolio  
+├── Task3_Platforms/          → Coding practice and Google Form work  
+├── Task4_Email_Etiquette/    → Professional emails and social media checklist  
+├── Task5_Cybercrime/         → Cyberbullying case study and safety checklist  
+├── Report/  
+│   └── report.docx           → Final project report document  
+└── README.md                 → Overview and explanation of the entire project  
 
 -------------------------------------------------------------
 
@@ -32,7 +30,7 @@ The infographic was made to be visually clear and informative so that anyone can
 
 [View Infographic](task-1-presentation/INFOGRAPHICS.pdf)
 
-in case the link shows "Unable to render code block" due to internet issue, please download the raw file and check.Thank you
+in case the link shows "Unable to render code block" due to internet issue, please download the raw file to view.Thank you
 
 -------------------------------------------------------------
 <h3>Task 2 - Building a Student Digital Portfolio</h3>
