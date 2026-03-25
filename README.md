@@ -5,13 +5,18 @@ REG NO: 25MIB10001
 -------------------------------------------------------------
 
 ## 📁 Repository Structure
-├── Task1_Infographic/
+├── Task1_Infographic/                                                                                                                                                        
 ├── Task2_Portfolio/
+
 ├── Task3_Platforms/
+
 ├── Task4_Email_Etiquette/
+
 ├── Task5_Cybercrime/
+
 ├── Report/
 │   └── report.docx
+
 └── README.md
 
 -------------------------------------------------------------
