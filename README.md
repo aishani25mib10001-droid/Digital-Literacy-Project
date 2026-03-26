@@ -62,7 +62,7 @@ In this task, I built my digital portfolio by creating profiles on <b>GitHub, Li
 <li>In this task, I explored coding practice and collaboration tools to understand how they can support learning and teamwork in a digital environment.</li>
 For Part A, I created an account on <b>HackerRank</b> and completed a beginner-level Python problem on using a for loop to write a number series without space. This helped me practice basic coding concepts and improve my problem-solving skills. 
 
-[View HackerRank](https://www.hackerrank.com/profile/aishani_25mib101)
+[View HackerRank](https://www.hackerrank.com/profile/aishani_25mib101)  
 [View Code](task-3-platform/hackerrank.jpg)
 
 For Part B, I created a <b>Google Form</b> titled “Digital Literacy Awareness Quiz” with five questions, including multiple-choice and short answer types. I also collected two responses to check how the form is responding.  
