@@ -7,16 +7,26 @@ REG NO: 25MIB10001
 ## Repository Structure
 
 This repository is organized into separate folders for each task to keep everything clear and easy to navigate:
-
-├── Task1_Infographic/        → Contains the digital literacy **infographic**  
-├── Task2_Portfolio/          → Includes links and details of my **digital portfolio**  
-├── Task3_Platforms/          → **Coding practice** and **Google Form** work  
-├── Task4_Email_Etiquette/    → **Professional emails** and **social media checklist**  
-├── Task5_Cybercrime/         → Cyberbullying **case study** and **safety checklist**  
-├── Report/  
-│   └── report.docx           → Final project report document  
-└── README.md                 → Overview and explanation of the entire project  
-
+digital-literacy-project/
+│
+├── report/
+│   └── Project_Report.docx
+├── task-1-presentation/
+│   ├── INFOGRAPHICS.pdf
+├── task-2-portfolio/
+│   ├── GITHUBportfolio.png
+│   ├── ResearchGprofile.jpg  
+│   ├── linkedInportfolio.png
+├── task-3-platforms/ 
+│   ├── GoogleForm.pdf
+│   ├── hackerrank.jpg
+├── task-4-email-etiquette/
+│   ├── email.md
+│   ├── social-media-checklist.md
+├── task-5-cybercrime/
+│   ├── Casestudy.md
+│   ├── prevention-checklist.md
+├── README.md
 -------------------------------------------------------------
 
 ## Project Overview
