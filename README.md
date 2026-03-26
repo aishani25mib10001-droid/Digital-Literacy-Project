@@ -4,22 +4,22 @@ NAME: AISHANI PAUL
 REG NO: 25MIB10001
 -------------------------------------------------------------
 
-## 📁 Repository Structure
+## Repository Structure
 
 This repository is organized into separate folders for each task to keep everything clear and easy to navigate:
 
-├── Task1_Infographic/        → Contains the digital literacy infographic  
-├── Task2_Portfolio/          → Includes links and details of my digital portfolio  
-├── Task3_Platforms/          → Coding practice and Google Form work  
-├── Task4_Email_Etiquette/    → Professional emails and social media checklist  
-├── Task5_Cybercrime/         → Cyberbullying case study and safety checklist  
+├── Task1_Infographic/        → Contains the digital literacy **infographic**  
+├── Task2_Portfolio/          → Includes links and details of my **digital portfolio**  
+├── Task3_Platforms/          → **Coding practice** and **Google Form** work  
+├── Task4_Email_Etiquette/    → **Professional emails** and **social media checklist**  
+├── Task5_Cybercrime/         → Cyberbullying **case study** and **safety checklist**  
 ├── Report/  
 │   └── report.docx           → Final project report document  
 └── README.md                 → Overview and explanation of the entire project  
 
 -------------------------------------------------------------
 
-## 📌 Project Overview
+## Project Overview
 This Digital Literacy Project aims to develop essential online skills including digital communication, cybersecurity awareness, professional presence, and responsible internet usage. The project consists of five tasks that demonstrate practical applications of digital literacy concepts.
 
 -------------------------------------------------------------
@@ -44,7 +44,8 @@ In this task, I built my digital portfolio by creating profiles on GitHub, Linke
 <h3>Task 3 – Coding & Collaboration Platforms</h3>
 <l>In this task, I explored coding practice and collaboration tools to understand how they can support learning and teamwork in a digital environment.</l>
 
-For Part A, I created an account on <b>HackerRank</b> and completed a beginner-level Python problem. This helped me practice basic coding concepts and improve my problem-solving skills.
+For Part A, I created an account on <b>HackerRank</b> and completed a beginner-level Python problem. This helped me practice basic coding concepts and improve my problem-solving skills.  
+[View HackerRank](https://www.hackerrank.com/profile/aishani_25mib101)
 
 For Part B, I created a <b>Google Form</b> titled “Digital Literacy Awareness Quiz” with five questions, including multiple-choice and short answer types. I also collected responses and viewed them using Google Sheets.   
 [View Google Form](https://docs.google.com/forms/d/e/1FAIpQLSctvsYAkFXNyhx431lOfTNV2s4syrrHKjHnJY1iwaX-4jVggw/viewform?usp=header)
@@ -75,3 +76,7 @@ In Part B, I prepared a “Stay Safe Online” checklist with practical and acti
 
 This task improved my awareness of cyber risks and taught me how to stay safe and responsible while using digital platforms.
 
+---------------------------------------------------------------
+## Conclusion
+
+Working on this project helped me better understand how to use digital tools in a smart and responsible way. I learned how to communicate professionally, stay safe online, and build a strong digital presence. Overall, it gave me practical skills that will be useful for both my studies and future career.
