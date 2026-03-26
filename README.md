@@ -88,7 +88,7 @@ In this task, I explored the concept of cybercrime by focusing on cyberbullying 
 
 I also created a realistic scenario to show how cyberbullying can affect a person’s mental health, social life, and academic performance. This helped me understand the seriousness of online harassment and its real-life impact.  
 
-[View Case Study Source](https://www.britannica.com/story/cyberbullying-case-of-amanda-todd)  
+[View Case Study Source](https://www.researchgate.net/publication/260372605_Suicide_and_the_Internet_the_case_of_Amanda_Todd)  
 [View case study](task-5-cybercrime/Casestudy.md)
 
 In Part B, I prepared a “Stay Safe Online” checklist with practical and actionable tips for college students. The checklist includes general safety measures, financial/UPI safety tips, and information about reporting cybercrime through official channels.                                                                    
