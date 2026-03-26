@@ -1,16 +1,13 @@
-<h3>CYBERBULLYING</h3>
+<h3>Cyberbullying Case Study: Amanda Todd</h3>
 
+Cyberbullying is a form of online harassment where individuals are targeted through digital platforms such as social media, messaging apps, or forums. It often involves threats, humiliation, spreading rumors, or sharing private content to harm someone emotionally or socially.
 
-Cyberbullying is a type of online harassment where people use social media or messaging platforms to hurt or humiliate someone. This can include posting mean comments, spreading rumors, sharing private information, or even creating fake accounts to damage a person’s image.
+A well-known real-life example is the case of Amanda Todd, a Canadian teenager. Her experience shows how cyberbullying can escalate over time. It began when Amanda, at a young age, was persuaded by an online stranger to expose herself on a webcam. The person secretly captured the image and later used it to blackmail her. When Amanda refused to comply further, the image was shared online. This led to widespread humiliation and harassment from peers.
 
-It usually begins in small ways. A person shares something online, and a few people start leaving sarcastic or negative comments. Over time, this behavior grows into regular harassment. In some cases, bullies create fake profiles to impersonate the victim and spread false information, making the situation worse.
+The situation worsened step by step. First, the image circulated among classmates and strangers. Then, fake profiles were created to further shame her. Even when Amanda changed schools, the bullying followed her through social media. Offline bullying also increased as people recognized her from the online incident. The continuous cycle of online and offline harassment left her feeling trapped.
 
-Teenagers and students are most commonly targeted, especially those who are active on social media or seen as different or vulnerable.
+Cyberbullying commonly targets teenagers, especially those who are active online or perceived as vulnerable. Individuals who share personal content or interact with unknown people are often at higher risk.
 
-ONE SUCH SCENERIO IS DESCRIBED BELOW:
+The consequences in Amanda Todd’s case were severe. She experienced anxiety, depression, and social isolation. Despite seeking help, the constant harassment affected her mental health deeply. Tragically, she died by suicide in 2012, highlighting the serious impact cyberbullying can have.
 
-Aadya, a college student, loved sharing her achievements and daily moments online. At first, everything was positive, but gradually, a few people began posting hurtful comments. Soon, someone created a fake account using her photos and started posting edited and misleading content. Rumors spread quickly among her classmates. Aadya felt embarrassed, anxious, and isolated. She stopped participating in social activities and even struggled to focus on her studies.
-
-The situation improved when a close friend noticed her distress and encouraged her to speak to a faculty member. Together, they reported the fake account, which was later removed, and action was taken against those responsible.
-
-This shows how cyberbullying can deeply affect a person’s mental health and confidence, and why support and timely action are crucial.
+This case emphasizes the importance of online safety, awareness, and early intervention to prevent such incidents.
