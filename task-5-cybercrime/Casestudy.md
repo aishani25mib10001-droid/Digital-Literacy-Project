@@ -11,3 +11,5 @@ Cyberbullying commonly targets teenagers, especially those who are active online
 The consequences in Amanda Todd’s case were severe. She experienced anxiety, depression, and social isolation. Despite seeking help, the constant harassment affected her mental health deeply. Tragically, she died by suicide in 2012, highlighting the serious impact cyberbullying can have.
 
 This case emphasizes the importance of online safety, awareness, and early intervention to prevent such incidents.
+
+Source : ResearchGate
