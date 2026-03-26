@@ -10,27 +10,27 @@ This repository is organized into separate folders for each task to keep everyth
 digital-literacy-project/                                                                                                                                                    
 │
 ├── report/                                                                                                                                                                  
-│   └── Project_Report.docx 
-|  
+│   └── Project_Report.docx   
+|    
 ├── task-1-presentation/                                                                                                                                                     
-│   ├── INFOGRAPHICS.pdf 
+│   ├── INFOGRAPHICS.pdf   
 |  
 ├── task-2-portfolio/                                                                                                                                                        
-│   ├── GITHUBportfolio.png                                                                                                                                                  
-│   ├── ResearchGprofile.jpg                                                                                                                                                 
-│   ├── linkedInportfolio.png 
+│   ├── GITHUBportfolio.png                                                                                                                                                    
+│   ├── ResearchGprofile.jpg                                                                                                                                                   
+│   ├── linkedInportfolio.png   
 |  
 ├── task-3-platforms/                                                                                                                                                        
 │   ├── GoogleForm.pdf                                                                                                                                                       
-│   ├── hackerrank.jpg  
+│   ├── hackerrank.jpg    
 |  
 ├── task-4-email-etiquette/  
 │   ├── email.md  
-│   ├── social-media-checklist.md 
+│   ├── social-media-checklist.md   
 |  
 ├── task-5-cybercrime/  
 │   ├── Casestudy.md  
-│   ├── prevention-checklist.md  
+│   ├── prevention-checklist.md    
 |  
 ├── README.md  
 
@@ -86,7 +86,9 @@ In Part B, I created a Social Media Do’s and Don’ts checklist with five poin
 
 In this task, I explored the concept of cybercrime by focusing on cyberbullying as a case study. I described what cyberbullying is, how it typically happens step-by-step, who is commonly targeted, and the possible consequences it can have on individuals.
 
-I also created a realistic scenario to show how cyberbullying can affect a person’s mental health, social life, and academic performance. This helped me understand the seriousness of online harassment and its real-life impact.                                                                                                     
+I also created a realistic scenario to show how cyberbullying can affect a person’s mental health, social life, and academic performance. This helped me understand the seriousness of online harassment and its real-life impact.  
+
+[View Case Study Source](https://www.britannica.com/story/cyberbullying-case-of-amanda-todd)  
 [View case study](task-5-cybercrime/Casestudy.md)
 
 In Part B, I prepared a “Stay Safe Online” checklist with practical and actionable tips for college students. The checklist includes general safety measures, financial/UPI safety tips, and information about reporting cybercrime through official channels.                                                                    
