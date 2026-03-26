@@ -6,27 +6,34 @@ REG NO: 25MIB10001
 
 ## Repository Structure
 
-This repository is organized into separate folders for each task to keep everything clear and easy to navigate:
-digital-literacy-project/
+This repository is organized into separate folders for each task to keep everything clear and easy to navigate:                                                                  
+digital-literacy-project/                                                                                                                                                    
 │
-├── report/
-│   └── Project_Report.docx
-├── task-1-presentation/
-│   ├── INFOGRAPHICS.pdf
-├── task-2-portfolio/
-│   ├── GITHUBportfolio.png
-│   ├── ResearchGprofile.jpg  
-│   ├── linkedInportfolio.png
-├── task-3-platforms/ 
-│   ├── GoogleForm.pdf
-│   ├── hackerrank.jpg
-├── task-4-email-etiquette/
-│   ├── email.md
-│   ├── social-media-checklist.md
-├── task-5-cybercrime/
-│   ├── Casestudy.md
-│   ├── prevention-checklist.md
-├── README.md
+├── report/                                                                                                                                                                  
+│   └── Project_Report.docx 
+|  
+├── task-1-presentation/                                                                                                                                                     
+│   ├── INFOGRAPHICS.pdf 
+|  
+├── task-2-portfolio/                                                                                                                                                        
+│   ├── GITHUBportfolio.png                                                                                                                                                  
+│   ├── ResearchGprofile.jpg                                                                                                                                                 
+│   ├── linkedInportfolio.png 
+|  
+├── task-3-platforms/                                                                                                                                                        
+│   ├── GoogleForm.pdf                                                                                                                                                       
+│   ├── hackerrank.jpg  
+|  
+├── task-4-email-etiquette/  
+│   ├── email.md  
+│   ├── social-media-checklist.md 
+|  
+├── task-5-cybercrime/  
+│   ├── Casestudy.md  
+│   ├── prevention-checklist.md  
+|  
+├── README.md  
+
 -------------------------------------------------------------
 
 ## Project Overview
