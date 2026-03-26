@@ -10,7 +10,7 @@ This repository is organized into separate folders for each task to keep everyth
 digital-literacy-project/                                                                                                                                                    
 │
 ├── report/                                                                                                                                                                  
-│   └── Project_Report.docx   
+│   └── Project_Report.pdf     
 |    
 ├── task-1-presentation/                                                                                                                                                     
 │   ├── INFOGRAPHICS.pdf   
